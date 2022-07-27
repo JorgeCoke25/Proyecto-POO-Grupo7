@@ -1,0 +1,8 @@
+#pane{
+    -fx-background-color: radial-gradient(focus-distance 0% , center 50% 50% , radius 30% , #f9b200,#0d2b3f);
+    -fx-background-color: #0d2b3f;
+    -fx-background-repeat: stretch;
+    -fx-background-size: 900 506;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+}
